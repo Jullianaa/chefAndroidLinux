@@ -14,7 +14,7 @@ Many packages will be instaled:
 
 ## Instalation
 
-To install this recipe is so easy. You just need run this command:
+To install this recipe in EuVou. You just need run this command:
 ```sh
 git clone https://github.com/Jullianaa/chefAndroidLinux.git
 cd chef-android-linux
